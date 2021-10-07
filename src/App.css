@@ -1,0 +1,15 @@
+.addmovie {
+  position: fixed;
+  top: 130px;
+  left: 50px;
+}
+.container-movies {
+  background-color: darkgrey !important;
+  height: 100%;
+}
+.footer {
+  position: fixed;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
